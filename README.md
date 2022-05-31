@@ -23,7 +23,7 @@
  -->
 
 ### Language & Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,unity,godot,dart,flutter,mysql,firebase,php,js,ts,nodejs,express,heroku,nginx,git,github,discord,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,php,js,ts,jquery,angular,vue,nodejs,react,css,bootstrap,laravel,wordpress,mysql,postgres,sqlite,gcp,git,github,gitlab,stackoverflow,aws,azure)](https://skillicons.dev)
 
 ### My Github Stats
 
