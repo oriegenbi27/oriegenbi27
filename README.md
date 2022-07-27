@@ -29,4 +29,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oriegenbi27&layout=compact&theme=tokyonight)](https://github.com/oriegenbi27/github-readme-stats)
 
-![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=oriegenbi27&show_icons=true&theme=tokyonight)
+![orie's GitHub stats](https://github-readme-stats.vercel.app/api?username=oriegenbi27&show_icons=true&theme=tokyonight)
