@@ -9,7 +9,7 @@
 
 
 ### Language & Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,php,js,ts,jquery,angular,vue,nodejs,react,css,bootstrap,laravel,wordpress,mysql,postgres,sqlite,gcp,git,github,gitlab,stackoverflow,aws,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,php,js,ts,python,jquery,angular,vue,nodejs,react,css,bootstrap,laravel,wordpress,mysql,postgres,sqlite,gcp,git,github,gitlab,stackoverflow,aws,azure)](https://skillicons.dev)
 
 ### My Github Stats
 
